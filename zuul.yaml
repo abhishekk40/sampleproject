@@ -1,5 +1,5 @@
 - project:
-    name: jluk-codi-org/sampleproject
+    name: abhishekk40/sampleproject
     check:
       jobs:
         - noop
